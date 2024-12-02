@@ -1,0 +1,5 @@
+pip pyTelegramBotAPI asyncio
+chmod +x *
+./Moin
+python3 Moin.py
+
